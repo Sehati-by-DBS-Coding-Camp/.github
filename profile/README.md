@@ -1,4 +1,7 @@
+![SEHATI](assets/sehati-banner.svg)
+
 # SEHATI
+**ID TIM: CC25-CF098**
 
 **Cek kesehatan mental Anda dengan cepat dan aman.**  
 Jawab 21 pertanyaan dan temukan tingkat stres, kecemasan, serta depresimu — lengkap dengan hasil instan sebagai panduan perbaikan diri.
@@ -26,9 +29,17 @@ Pengguna dapat mengisi 21 pertanyaan sederhana untuk mengetahui tingkat risiko t
 
 ## Struktur Tim
 
-- **Back-End:** 1 orang
-- **Front-End Web:** 2 orang
-- **Machine Learning:** 3 orang
+- **Advisor:**
+  - [Faridatul Nur Aidah](farida@dicoding.com): FC25-086
+- **Machine Learning:**
+  - [Nur Salamah Azzahrah](https://github.com/nurazzahrah12): MC314D5X1630
+  - [Zidan Muhammad Ikvan](https://github.com/zidanikvan22): MC404D5Y0059
+  - [Yoga Sulistiyo Widodo](https://github.com/yogaWidodo): MC015D5Y0309
+- **Front-End Web:**
+  - [Alfia Meilani Putri](https://github.com/alfiameilaniputri): FC314D5X1631
+  - [Sopian Syauri](https://github.com/spnsyr1): FC314D5Y1609
+- **Back-End:**
+  - [Ary Kurnia](https://github.com/arykurnia): FC558D5Y0538
 
 ---
 
@@ -38,26 +49,10 @@ Proyek ini merupakan _Capstone Project_ sebagai syarat kelulusan program Studi I
 
 ---
 
-## Cara Berkontribusi
-
-Kami terbuka untuk kontribusi dan kolaborasi!  
-Silakan baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan kontribusi.
-
----
-
 ## Kontak & Komunitas
 
-- Website: _(tambahkan jika ada)_
-- Email: _(tambahkan jika ada)_
+- [SEHATI](https://github.com/Sehati-by-DBS-Coding-Camp)
 - [Dicoding](https://www.dicoding.com/)
 - [DBS Foundation](https://www.dbs.com/foundation/)
-
----
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT.  
-Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ---
 
